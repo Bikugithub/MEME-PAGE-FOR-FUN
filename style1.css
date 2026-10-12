@@ -20,13 +20,14 @@ body {
 
 .img {
     display: block;
-    width: 90%;          /* Takes up most of the mobile screen */
-    max-width: 400px;    /* Stops it from getting too huge on a laptop */
-    height: auto;        /* Keeps the image proportions perfect! */
+    width: 90%;
+    max-width: 400px;
+    height: auto;
     padding: 10px;
-    border: 5px solid grey; /* Swapped invalid margin to a border */
-    margin: 0 auto;      /* Centers the image left and right automatically */
+    border: 5px solid grey;
+    margin: 0 auto; 
 }
+
 
 footer {
     text-align: right;
