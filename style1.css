@@ -1,7 +1,5 @@
-html {
-    background-color:darkslategrey;
-
-
+body {
+    background-color: darkslategrey;
 }
 
 #DINNER {
@@ -22,18 +20,19 @@ html {
 
 .img {
     display: block;
-    margin: 20px solid grey;
-    width: 50%;
-    height: 100%;
+    width: 90%;          /* Takes up most of the mobile screen */
+    max-width: 400px;    /* Stops it from getting too huge on a laptop */
+    height: auto;        /* Keeps the image proportions perfect! */
     padding: 10px;
-    margin-left: 230px;
-    margin-right: 130px;
+    border: 5px solid grey; /* Swapped invalid margin to a border */
+    margin: 0 auto;      /* Centers the image left and right automatically */
 }
 
-footer
-{
-text-align:right;
-padding: 10px;
-color:bisque
+footer {
+    text-align: right;
+    padding: 10px;
+}
 
+footer a {
+    color: bisque;
 }
