@@ -1,0 +1,27 @@
+
+html {
+    background-color:darkslategrey;}
+
+
+.img {
+    display: block;
+    margin: 20px solid grey;
+    width: 50%;
+    height: 100%;
+    padding: 10px;
+    margin-left: 230px;
+    margin-right: 130px;
+}
+
+.problem {
+    border: 2px solid gold;
+    padding: 10px;
+    text-align: center;
+    color: bisque;
+    font-family: "Libre Baskerville", serif;
+}
+
+footer {
+    color: cornsilk;
+    text-align: right;
+}

@@ -1,0 +1,45 @@
+#meme {
+    background-color: TRANSPARENT;
+    padding: 20px;
+    border: 1px transparent #ccc;
+    text-align: center;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    text-transform: uppercase;
+    color: rgb(240, 224, 6);
+
+}
+
+#container {
+
+    background-color: TRANSPARENT;
+    padding: 25px;
+    border: 1px transparent #ccc;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 130px;
+    margin-bottom: 30px;
+
+}
+
+.btn {
+    display: inline-block;
+    width:fit-content;
+    margin: 0 auto;
+    color:bisque
+    
+
+}
+
+footer {
+    background-color: rgb(9, 225, 233);
+    padding: 10px;
+    text-align: center;
+    font-size: 7px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-emphasis-color: white;
+    FONT-WEIGHT: BOLD;
+    FONT-STYLE: ITALIC;
+    margin-top: 180px;
+    box-shadow: blanchedalmond;
+}
+
